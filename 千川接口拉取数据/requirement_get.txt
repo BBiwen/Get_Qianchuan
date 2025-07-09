@@ -1,0 +1,2 @@
+#pip freeze > requirements.txt #终端命令——打包所有使用的库
+#pip install -r requirements.txt #终端命令——下载所有使用的库
